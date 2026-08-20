@@ -1,0 +1,9 @@
+## Python 관련 파일
+__pycache__/
+module/__pycache__/
+utils/__pycache__/
+*.pyc
+*.pyo
+
+## wandb 관련 파일
+wandb/
