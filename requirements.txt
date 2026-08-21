@@ -81,7 +81,7 @@ nvidia-nvjitlink-cu12==12.9.86
 nvidia-nvtx-cu12==12.1.105
 nvitop==1.6.1
 open3d==0.18.0
-opencv-python==4.12.0.88
+opencv-python==4.10.0.84
 packaging==25.0
 pandas==2.3.3
 parso==0.8.5
@@ -139,7 +139,7 @@ typing-inspection==0.4.1
 typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
-wandb==0.23.1
+wandb==0.23.0
 wcwidth==0.2.14
 Werkzeug==3.1.4
 widgetsnbextension==4.0.15
