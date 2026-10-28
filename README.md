@@ -36,7 +36,7 @@ Download the datasets from [dataset link](https://rvlab.snu.ac.kr/research/omnis
 
 
 ## Evaluation  
-Download the checkpoint files from [[Google Drive](https://drive.google.com/drive/folders/1L_-uJQsH0_bKX_3gHYsyBAYAIxxc6K3d?usp=sharing)] and place them in `checkpoints/`.
+Download the checkpoint files from [Google Drive](https://drive.google.com/drive/folders/12SKs_tL266uVzlKhAARONRH_BlGgzJCY?usp=sharing) and place them in `checkpoints/`.
 
 Test with non-distilled model *(trained on OmniThings dataset only)*
 ```bash
